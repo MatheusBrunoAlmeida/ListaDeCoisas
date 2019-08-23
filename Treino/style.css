@@ -1,0 +1,64 @@
+a{
+    position:relative;
+    left: 1%;
+    color:rgb(184, 187, 2);
+    font-size: 40px;
+}
+
+ul{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+
+div{
+    position: relative;
+    align-items: center;
+   
+    left: 30%;
+    font-size: 40px;
+}
+
+
+
+input{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    font-size: 30px;
+    border-radius: 10px;
+    
+}
+
+x
+button{
+
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    font-size: 30px;
+    border-radius: 10px;
+    border-left-color: white;
+    border-top-color: white;
+    border-right-color: white;
+    background-color: rgb(184, 187, 2);
+    border-color: white;
+    
+
+}
+
+
+h1{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    font-size: 30px;
+    border-radius: 10px;
+    position: relative;
+    align-items: center;
+   
+    left: 30%;
+    font-size: 40px;
+    
+}
